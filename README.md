@@ -25,3 +25,4 @@ like car loans divided by the sum of credit limits)
 
 ## Создание web-приложения ##
 
+https://hsecreditscoring-pf35zae8zrj.streamlit.app/
