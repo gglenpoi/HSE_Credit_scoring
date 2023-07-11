@@ -22,3 +22,6 @@ like car loans divided by the sum of credit limits)
 * NumberOfTime60-89DaysPastDueNotWorse: сколько раз за последние 2 года заемщик задержал платеж на 60-89 дней
 * NumberOfDependents: количество иждивенцев на попечении (супруги, дети и др)
 * GroupAge: закодированная возрастная группа - чем больше код, тем больше возраст
+
+## Создание web-приложения ##
+
